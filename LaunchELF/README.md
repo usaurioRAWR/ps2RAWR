@@ -76,9 +76,9 @@ Está destinado a ser utilizado en el llamado cabolato de notas, pero dependiend
 
 <details><summary>Traducido al Español:</summary>
 <p>
-Este error se ha corregido en las versiones derivadas de LbF y uLaunchELF, así que vamos a usarlo.
-
 La función de archivador no puede copiar archivos de 0 bytes.
+
+Este error se ha corregido en las versiones derivadas de LbF y uLaunchELF, así que vamos a usarlo.
 </p>
 </details>
 
