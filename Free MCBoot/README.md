@@ -3,25 +3,25 @@
 
 ## Versiones:
 
-- `Update 2019/04/13: v0.987 (FMCB v1.966) released.`→ [Decargar]()
-- `Update 2019/01/14: v0.986 (FMCB v1.966) re-released.`
+- `Update 2019/04/13: v0.987 (FMCB v1.966) released.` → [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.987%20(FMCB%20v1.966)%20(2019-04-13))
+- `Update 2019/01/14: v0.986 (FMCB v1.966) re-released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.986%20(FMCB%20v1.966)%20(2019-01-14))
 - `Update 2019/01/11: v0.986 (FMCB v1.966) released.`
-- `Update 2019/01/07: v0.985 (FMCB v1.966) released.`
-- `Update 2018/12/08: v0.985 (FMCB v1.965) released.`
-- `Update 2018/11/05: v0.984 (FMCB v1.965) re-released.`
-- `Update 2018/11/03: v0.984 (FMCB v1.965) re-released.`
-- `Update 2018/10/27: v0.984 (FMCB v1.965) re-released.`
+- `Update 2019/01/07: v0.985 (FMCB v1.966) released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.985%20(FMCB%20v1.966)%20(2019-01-07))
+- `Update 2018/12/08: v0.985 (FMCB v1.965) released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.985%20(FMCB%20v1.965)%20(2018-12-08))
+- `Update 2018/11/05: v0.984 (FMCB v1.965) re-released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.984%20(FMCB%20v1.965)%20(2018-11-05))
+- `Update 2018/11/03: v0.984 (FMCB v1.965) re-released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.984%20(FMCB%20v1.965)%20(2018-11-03))
+- `Update 2018/10/27: v0.984 (FMCB v1.965) re-released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.984%20(FMCB%20v1.965)%20(2018-10-27))
 - `Update 2018/10/21: v0.984 (FMCB v1.965) released.`
-- `Update 2018/07/22: v0.983 (FMCB v1.964) re-released.`
+- `Update 2018/07/22: v0.983 (FMCB v1.964) re-released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.983%20(FMCB%20v1.964)%20(2018-07-22))
 - `Update 2018/07/21: v0.983 (FMCB v1.964) released.`
-- `Update 2018/07/04: v0.983 (FMCB v1.963) re-released.`
+- `Update 2018/07/04: v0.983 (FMCB v1.963) re-released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.983%20(FMCB%20v1.963)%20(2018-07-04))
 - `Update 2018/07/03: v0.983 (FMCB v1.963) released.`
 - `Update 2018/06/28: v0.983 (FMCB v1.962) re-released.`
 - `Update 2018/06/20: v0.983 (FMCB v1.962) released.`
 - `Update 2018/06/19: v0.983 (FMCB v1.961) released.`
 - `Update 2018/06/14: v0.982 (FMCB v1.96) released (actualización menor del instalador).`
 - `Update 2018/06/12: v0.981 (FMCB v1.96) released.`
-- `Update 2016/12/16: v0.973 (FMCB v1.953) re-released.`
+- `Update 2016/12/16: v0.973 (FMCB v1.953) re-released.`→ [Decargar](https://github.com/usaurioRAWR/ps2RAWR/tree/main/Free%20MCBoot/v0.973%20(FMCB%20v1.953)%20(2016-12-16))
 - `Update 2016/12/15: v0.973 (FMCB v1.953) released.`
 - `Update 2016/06/18: v0.972 (FMCB v1.952) released.`
 - `Update 2016/06/09: v0.972 (FMCB v1.951) released.`
