@@ -4,4 +4,4 @@ Este repositorio alberga mis conocimientos y documentos, acerca de las ventajas 
 ## Contenido;
 
 ### [MEMORY-CARD-64MB](https://github.com/usaurioRAWR/ps2RAWR/tree/MEMORY-CARD-64MB)
-  - La rama MEMORY-CARD-64MB contiene los archivos que contienen mi Memory Card en el desarrollo de este proyecto.
+  - La rama **MEMORY-CARD-64MB**, contiene los archivos de mi Memory Card en el desarrollo de este proyecto.
