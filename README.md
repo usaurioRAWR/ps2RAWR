@@ -1,5 +1,5 @@
 # ps2RAWR
-Este repositorio alberga mis conocimientos y documentos, acerca de las ventajas de tener una Memory Card con Free MCBoot para la PS2.
+Es un repositorio que alberga mis conocimientos y documentos, acerca de las ventajas de tener una Memory Card con Free MCBoot para la PS2.
 
 ## Contenido;
 
